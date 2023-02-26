@@ -15,8 +15,8 @@
 |   Tuesday, Feb 7|    Alexa   |   PRS: Evaluating the Local Portability of Cross-Population PRS     |    Relevant papers: [Wang et al. 2020](https://www-ncbi-nlm-nih-gov.proxy2.cl.msu.edu/pmc/articles/PMC7395791/), [Prive et al. 2022](https://www.sciencedirect.com/science/article/pii/S0002929721004201?via%3Dihub)        |
 |   Tuesday, Feb 14|   NO MEETING  |     |            |
 |   Tuesday, Feb 21|   Kyle     |   PRS: PRS Cross-Popultion prediction accuracy. Initial results from the SOL Cohort    |      [SOL Design](https://pubmed.ncbi.nlm.nih.gov/20609343/)      |
-|   Tuesday, Feb 28|  Anirban      |  PRS:       |            |
-|   Tuesday, March 7|       |        |            |
+|   Tuesday, Feb 28|        |         |            |
+|   Tuesday, March 7|  Anirban     |  PRS:      |            |
 |   Tuesday, March 14|       |        |            |
 |   Tuesday, March 28|   Cody    |        |            |
 |   Tuesday, April 4|       |        |            |
