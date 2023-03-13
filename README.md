@@ -16,8 +16,8 @@
 |   Tuesday, Feb 14|   NO MEETING  |     |            |
 |   Tuesday, Feb 21|   NO MEETING  |     |            |
 |   Tuesday, Feb 28|   Kyle     |   PRS: PRS Cross-Popultion prediction accuracy. Initial results from the SOL Cohort    |      [SOL Design](https://pubmed.ncbi.nlm.nih.gov/20609343/)      |
-|   Tuesday, March 7|  Anirban     |  PRS: Building PRS on 1000 Genomes data set    |            |
-|   Tuesday, March 14|       |        |            |
+|   Tuesday, March 7|       |      |            |
+|   Tuesday, March 14| Anirban     |  PRS: Building PRS on 1000 Genomes data set       |            |
 |   Tuesday, March 28|   Cody    |        |            |
 |   Tuesday, April 4|       |        |            |
 |   Tuesday, April 11| Guanqi  |        |            |
