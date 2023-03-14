@@ -19,7 +19,7 @@
 |   Tuesday, March 7|  NO MEETING     |      |            |
 |   Tuesday, March 14| Anirban     |  PRS: Building PRS on 1000 Genomes data set       |            |
 |   Tuesday, March 28|   Cody    |        |            |
-|   Tuesday, April 4|       |        |            |
+|   Tuesday, April 4|    Liz   |        |            |
 |   Tuesday, April 11| Guanqi  |        |            |
 |   Tuesday, April 18|   |       |            |
 |   Tuesday, April 25|       |        |            |
