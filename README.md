@@ -18,7 +18,7 @@
 |   Tuesday, Feb 28|   Kyle     |   PRS: PRS Cross-Popultion prediction accuracy. Initial results from the SOL Cohort    |      [SOL Design](https://pubmed.ncbi.nlm.nih.gov/20609343/)      |
 |   Tuesday, March 7|  NO MEETING     |      |            |
 |   Tuesday, March 14| Anirban     |  PRS: Building PRS on 1000 Genomes data set       |    [VAE population structure](https://academic.oup.com/g3journal/article/11/1/jkaa036/6105578)        |
-|   Tuesday, March 21|   Cody    | The “All of Us” Research Program  |            |
+|   Tuesday, March 21|   Cody    | The “All of Us” Research Program  |  [Article](https://www.nejm.org/doi/full/10.1056/NEJMsr1809937)    |
 |   Tuesday, April 4|    Liz   |        |            |
 |   Tuesday, April 11| Guanqi  |        |            |
 |   Tuesday, April 18|   |       |            |
