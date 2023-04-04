@@ -19,9 +19,9 @@
 |   Tuesday, March 7|  NO MEETING     |      |            |
 |   Tuesday, March 14| Anirban     |  PRS: Building PRS on 1000 Genomes data set       |    [VAE population structure](https://academic.oup.com/g3journal/article/11/1/jkaa036/6105578)        |
 |   Tuesday, March 21|   Cody    | The “All of Us” Research Program  |  [Article](https://www.nejm.org/doi/full/10.1056/NEJMsr1809937)    |
-|   Tuesday, April 4|    Liz   |        |            |
-|   Tuesday, April 11| Guanqi  |        |            |
-|   Tuesday, April 18|   |       |            |
+|   Tuesday, April 4|      |        |            |
+|   Tuesday, April 11| Liz  |        |            |
+|   Tuesday, April 18|  Guanqi |       |            |
 |   Tuesday, April 25|       |        |            |
 |   Tuesday, May 1|       |        |            |
 |   Tuesday, Mayu 8|       |        |            |
