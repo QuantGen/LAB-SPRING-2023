@@ -22,7 +22,7 @@
 |   Tuesday, April 4|      |        |            |
 |   Tuesday, April 11|   |        |            |
 |   Tuesday, April 18|  Guanqi |       |            |
-|   Tuesday, April 25|       |        |            |
+|   Tuesday, April 25|    Harold   |        |            |
 |   Tuesday, May 1|       |        |            |
 |   Tuesday, Mayu 8|       |        |            |
 
