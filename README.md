@@ -22,7 +22,7 @@
 |   Tuesday, April 4|      |        |            |
 |   Tuesday, April 11|   |        |            |
 |   Tuesday, April 18|  Harold |  GWAS quality score     |   [Article](https://academic.oup.com/bioinformatics/article/39/1/btad004/6991168)         |
-|   Tuesday, April 25|  Guanqi     |    Metabolomics Profiling of exercise    |  [Article]https://www.sciencedirect.com/science/article/pii/S2211124720315436?via%3Dihub          |
+|   Tuesday, April 25|  Guanqi     |    Metabolomics Profiling of exercise    |  [Article](https://www.sciencedirect.com/science/article/pii/S2211124720315436?via%3Dihub)         |
 |   Tuesday, May 1|       |        |            |
 |   Tuesday, Mayu 8|       |        |            |
 
