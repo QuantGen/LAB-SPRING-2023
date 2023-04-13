@@ -21,8 +21,8 @@
 |   Tuesday, March 21|   Cody    | The “All of Us” Research Program  |  [Article](https://www.nejm.org/doi/full/10.1056/NEJMsr1809937)    |
 |   Tuesday, April 4|      |        |            |
 |   Tuesday, April 11|   |        |            |
-|   Tuesday, April 18|  Guanqi |       |            |
-|   Tuesday, April 25|    Harold   |        |            |
+|   Tuesday, April 18|  Harold |  GWAS quality score     |   [Article](https://academic.oup.com/bioinformatics/article/39/1/btad004/6991168)         |
+|   Tuesday, April 25|  Guanqi     |        |            |
 |   Tuesday, May 1|       |        |            |
 |   Tuesday, Mayu 8|       |        |            |
 
